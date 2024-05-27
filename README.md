@@ -1,3 +1,11 @@
+---
+title: AWS Path Learning Recommender
+emoji: 📚
+colorFrom: yellow
+colorTo: yellow
+sdk: docker
+pinned: false
+---
 ## AWS Path Learning Recommender
 *ver May 2024*
 
