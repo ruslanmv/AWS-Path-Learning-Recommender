@@ -25,3 +25,4 @@ openai==0.28.1
 g4f
 langchain-community
 ollama
+streamlit
