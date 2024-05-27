@@ -33,7 +33,10 @@ ollama create aws-path-learning -f ./Modelfile
 #streamlit run ./src/app.py
 
 # Run the Python application
-streamlit run --server.address 0.0.0.0 ./src/app.py
+#streamlit run --server.address 0.0.0.0 ./src/app.py
+
+streamlit run ./src/app.py --server.port 7860 --server.address 0.0.0.0
+
 
 # Keep the script running to prevent the container from exiting
 #wait
