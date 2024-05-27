@@ -45,7 +45,7 @@ ENV model="default_model"
 
 # Copy the entire application
 COPY . .
-
+COPY src/ src/
 # Set proper permissions for the translations directory
 RUN chmod -R 777 src
 
