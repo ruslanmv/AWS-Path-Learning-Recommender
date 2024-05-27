@@ -47,7 +47,7 @@ ENV model="default_model"
 COPY . .
 
 # Set proper permissions for the translations directory
-RUN chmod -R 777 translations
+RUN chmod -R 777 src
 
 # Copy the startup script and make it executable
 #COPY start.sh .
