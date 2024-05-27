@@ -23,7 +23,12 @@ The app recommend you the AWS Role and which AWS Certification path learnings fi
 	```
 	ollama run aws-path-learning
 	```
+
+And type your current role and what you do
+![](assets/2024-05-27-13-01-51.png)
+
 3. Then run the script:
 	```
 	python stremlit run src/app.py
 	```
+![](assets/2024-05-27-13-00-09.png)
