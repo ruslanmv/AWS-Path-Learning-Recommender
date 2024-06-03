@@ -37,9 +37,13 @@ Here is the set of questions with the markdown format fixed:
 What are the key benefits of using AWS Cloud services? (Choose two.)
 
 A. High latency
+
 B. Cost-effectiveness
+
 C. Fixed capacity
+
 D. Scalability
+
 E. Manual provisioning
 
 #### Explanation:
@@ -51,8 +55,11 @@ E. Manual provisioning
 Which AWS Cloud concept provides the ability to easily add or remove resources to match the current demand?
 
 A. Elasticity
+
 B. High Availability
+
 C. Fault Tolerance
+
 D. Security
 
 #### Explanation:
@@ -65,8 +72,11 @@ D. Security
 According to security best practices, how should an Amazon EC2 instance be given access to an Amazon S3 bucket?
 
 A. Hard code an IAM user’s secret key and access key directly in the application, and upload the file.
+
 B. Store the IAM user’s secret key and access key in a text file on the EC2 instance, read the keys, then upload the file.
+
 C. Have the EC2 instance assume a role to obtain the privileges to upload the file.
+
 D. Modify the S3 bucket policy so that any service can upload to it at any time.
 
 #### Explanation:
@@ -77,8 +87,11 @@ D. Modify the S3 bucket policy so that any service can upload to it at any time.
 Which option is a customer responsibility when using Amazon DynamoDB under the AWS Shared Responsibility Model?
 
 A. Physical security of DynamoDB
+
 B. Patching of DynamoDB
+
 C. Access to DynamoDB tables
+
 D. Encryption of data at rest in DynamoDB
 
 #### Explanation:
@@ -92,8 +105,11 @@ A company has deployed applications on Amazon EC2 instances. The company needs t
 Which AWS service can the company use to meet these requirements?
 
 A. AWS Trusted Advisor
+
 B. Amazon Inspector
+
 C. AWS Config
+
 D. Amazon GuardDuty
 
 #### Explanation:
@@ -105,8 +121,11 @@ A company wants to run a NoSQL database on Amazon EC2 instances.
 Which task is the responsibility of AWS in this scenario?
 
 A. Update the guest operating system of the EC2 instances.
+
 B. Maintain high availability at the database layer.
+
 C. Patch the physical infrastructure that hosts the EC2 instances.
+
 D. Configure the security group firewall.
 
 #### Explanation:
@@ -120,8 +139,11 @@ A company plans to use an Amazon Snowball Edge device to transfer files to the A
 Which activities related to a Snowball Edge device are available to the company at no cost?
 
 A. Use of the Snowball Edge appliance for a 10-day period
+
 B. The transfer of data out of Amazon S3 and to the Snowball Edge appliance
+
 C. The transfer of data from the Snowball Edge appliance into Amazon S3
+
 D. Daily use of the Snowball Edge appliance after 10 days
 
 #### Explanation:
@@ -132,9 +154,13 @@ D. Daily use of the Snowball Edge appliance after 10 days
 Which AWS services or tools can identify rightsizing opportunities for Amazon EC2 instances? (Choose two.)
 
 A. AWS Cost Explorer
+
 B. AWS Billing Conductor
+
 C. Amazon CodeGuru
+
 D. Amazon SageMaker
+
 E. AWS Compute Optimizer
 
 #### Explanation:
@@ -148,9 +174,13 @@ E. AWS Compute Optimizer
 Which of the following are benefits of using AWS Trusted Advisor? (Choose two.)
 
 A. Providing high-performance container orchestration
+
 B. Creating and rotating encryption keys
+
 C. Detecting underutilized resources to save costs
+
 D. Improving security by proactively monitoring the AWS environment
+
 E. Implementing enforced tagging across AWS resources
 
 #### Explanation:
