@@ -28,9 +28,6 @@ The AWS Certified Cloud Practitioner (CLF-C02) exam covers several key domains t
 These domains encompass the necessary knowledge areas to pass the AWS Certified Cloud Practitioner exam, ensuring that candidates have a broad understanding of AWS Cloud, its services, security, technology, and billing.
 
 
-Here is the set of questions with the markdown format fixed:
-
-
 ### Domain: Cloud Concepts
 
 #### Question 1:
